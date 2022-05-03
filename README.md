@@ -12,7 +12,7 @@ program.
 To run the program, do the following:
 
 1. Run the server.py with `python3 server.py`
-2. Then, run the client program with `python3 client.py`
+2. Then, run the client.py with `python3 client.py`
 
 
 ## Specification for The Assignment
