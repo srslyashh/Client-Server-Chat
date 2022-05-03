@@ -1,5 +1,5 @@
 # Client-Server Chat
-###### CS 372 Portfolio Assignment - Winter 2022 at Oregon State University
+###### CS 372 (Intro to Networks) Portfolio Assignment - Winter 2022 at Oregon State University
 
 ## Description
 
